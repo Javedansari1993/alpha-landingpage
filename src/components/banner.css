@@ -1,0 +1,62 @@
+#dol {
+    top: 1079px;
+    left: 140px;
+    width: 731px;
+    height: 61px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 45px/53px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#printed {
+    top: 1147px;
+    left: 140px;
+    width: 853px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 300 20px/28px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+li {
+    top: 1147px;
+    left: 140px;
+    width: 550px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/20px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#features {
+    top: 1207px;
+    left: 140px;
+    width: 700px;
+    height: 24px;
+    text-align: left;
+    font: normal normal medium 20px/28px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+button {
+    top: 1535px;
+    left: 140px;
+    width: 259px;
+    height: 40px;
+    background: #f26621 0% 0% no-repeat padding-box;
+    border-radius: 9px;
+    opacity: 1;
+    margin-top:25px;
+    font-size:20px;
+    color:#FFFFFF;
+}

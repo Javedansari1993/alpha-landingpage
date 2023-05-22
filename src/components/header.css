@@ -1,0 +1,21 @@
+#take {
+    top: 295px;
+    left: 141px;
+    width: 600px;
+    text-align: left;
+    font: normal normal normal 40px/40px Aktifo A;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+#pair {
+    top: 532px;
+    left: 141px;
+    width: 500px;
+    font:45px;
+    text-align: left;
+    font: normal normal 300 30px/30px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
