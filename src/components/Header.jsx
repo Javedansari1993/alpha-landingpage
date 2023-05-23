@@ -32,7 +32,7 @@ const Header = () => {
                     />
                     <div id="take" className="p-2 bd-highlight">
                         Take your graphics protection to the next level with DOL
-                        Max overlaminates
+                        Max overlaminate
                     </div>
                     <div id="pair" className="p-2 bd-highlight">
                         Pair with MPI 1105 wrapping film for ramped up
