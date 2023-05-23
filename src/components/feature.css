@@ -2,3 +2,28 @@
     background: #e5e5e5 0% 0% no-repeat padding-box;
     opacity: 1;
 }
+
+#why {
+    text-align: left;
+    font: normal normal 600 45px/53px Aktifo A;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-bottom:10px;
+    margin-top:10px
+    }
+
+#heading{
+text-align: left;
+font: normal normal medium 10px/20px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+}
+
+#content{
+/* UI Properties */
+text-align: left;
+font: normal normal 300 16px/22px Aktifo A;
+letter-spacing: 0px;
+color: #515151;
+}
