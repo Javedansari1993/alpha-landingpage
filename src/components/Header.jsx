@@ -9,7 +9,7 @@ import Form from "./Form";
 const Header = () => {
     return (
         <div id="relative">
-            <div id="absolute" className="border border-danger rounded"><Form/></div>
+            <div id="absolute" className="border border-danger rounded"><Form/> </div>
             <div
                 style={{
                     height: "100vh",
