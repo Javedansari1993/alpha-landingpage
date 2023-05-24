@@ -6,7 +6,7 @@ const Feature = () => {
     return (
         <div class="row">
             <div
-                class="col-4"
+                class="col-lg-4 col-md-12"
                 style={{
                     height: "100vh",
                     backgroundImage: `url(${feature1})`,
@@ -16,7 +16,7 @@ const Feature = () => {
                     opacity: 1,
                 }}
             ></div>
-            <div id="f2" class="col-8" style={{ padding: 60 }}>
+            <div id="f2" class="col-lg-8 col-md-12" style={{ padding: 60 }}>
                 <div id="why">Why us?</div>
                 <div className="d-flex flex-column gap-1">
                     <div className="d-flex gap-5">
