@@ -2,9 +2,9 @@ import React from "react";
 import header1 from "../img/header1.png";
 import vector1 from "../img/vector1.png";
 import "./header.css";
-import Group194 from "../Group194.svg";
-import Group195 from "../Group 195.svg";
-import asset from "../Asset 2ne.svg";
+import Group194 from "../img/Group194.svg";
+import Group195 from "../img/Group 195.svg";
+import asset from "../img/Asset 2ne.svg";
 import Form from "./Form";
 const Header = () => {
     return (

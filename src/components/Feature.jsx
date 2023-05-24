@@ -1,7 +1,7 @@
 import React from "react";
 import feature1 from "../img/feature1.png";
 import "./feature.css";
-import group110 from "../Group 110.svg";
+import group110 from "../img/Group 110.svg";
 const Feature = () => {
     return (
         <div class="row">
